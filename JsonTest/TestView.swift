@@ -19,7 +19,7 @@ struct TestView: View {
     
     //    var Test: Projec
     var projects: Project
-    
+//    ここら辺は問題なく表示できる
     var body: some View {
         VStack {
             Text(projects.name)

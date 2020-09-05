@@ -8,6 +8,8 @@
 
 import SwiftUI
 
+//jsonを引っ張ってきてデコード
+
 let testData: [Project] = load("Test.json")
 
 func load<T: Decodable>(_ filename: String) -> T {

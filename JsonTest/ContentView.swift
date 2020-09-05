@@ -14,6 +14,7 @@ struct ContentView: View {
     var projects: Project
     
     var body: some View {
+//        とりあえず問題のviewに遷移させてみる
         Text("ここをクリックで別画面")
         .buttonStyle(PlainButtonStyle())
         .padding(.bottom, 10.0)

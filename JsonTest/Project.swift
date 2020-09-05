@@ -19,6 +19,7 @@ struct Category: Codable {
     let slug: String
 }
 
+//example書こうとしたけど入れ子の場合が分からなかったので断念
 //#if DEBUG
 //extension Project {
 //    static var example: Self {
