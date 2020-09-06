@@ -10,6 +10,6 @@
 //import SwiftUI
 //
 //final class UserData: ObservableObject {
-//    @Published var projects = testData
+//    @Published var project = testData
 //}
 //結局いらなかった

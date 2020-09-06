@@ -18,12 +18,12 @@ import SwiftUI
 struct TestView: View {
     
     //    var Test: Projec
-    var projects: Project
+    var project: Project
 //    ここら辺は問題なく表示できる
     var body: some View {
         VStack {
-            Text(projects.name)
-            Text(projects.category.name)
+            Text(project.name)
+            Text(project.category.name)
         }
     }
 }
@@ -32,10 +32,10 @@ struct TestView: View {
 struct TestView_Previews: PreviewProvider {
     static var previews: some View {
         //        let decoder = JSONDecoder()
-        //        let projects = try! decoder.decode([Project].self, from: jsonData)
-        //        return ContentView(projects: projects)
+        //        let project = try! decoder.decode([Project].self, from: jsonData)
+        //        return ContentView(project: project)
         
-        ContentView(projects: testData[0])
+        ContentView(project: testData[0])
         
     }
 }
