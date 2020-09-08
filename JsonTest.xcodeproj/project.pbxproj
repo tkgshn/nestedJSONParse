@@ -14,10 +14,9 @@
 		C40FE40C25036BCC00D26607 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C40FE40B25036BCC00D26607 /* Preview Assets.xcassets */; };
 		C40FE40F25036BCC00D26607 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C40FE40D25036BCC00D26607 /* LaunchScreen.storyboard */; };
 		C40FE41725036CC700D26607 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C40FE41625036CC700D26607 /* TestView.swift */; };
-		C40FE41B2503729800D26607 /* Test.json in Resources */ = {isa = PBXBuildFile; fileRef = C40FE41A2503729700D26607 /* Test.json */; };
 		C40FE41D250372AD00D26607 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = C40FE41C250372AD00D26607 /* Data.swift */; };
 		C40FE41F2503732800D26607 /* Project.swift in Sources */ = {isa = PBXBuildFile; fileRef = C40FE41E2503732800D26607 /* Project.swift */; };
-		C40FE4212503736C00D26607 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C40FE4202503736C00D26607 /* UserData.swift */; };
+		C48E9F9725071FEC00C65118 /* Test.json in Resources */ = {isa = PBXBuildFile; fileRef = C40FE41A2503729700D26607 /* Test.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +32,6 @@
 		C40FE41A2503729700D26607 /* Test.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Test.json; sourceTree = "<group>"; };
 		C40FE41C250372AD00D26607 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		C40FE41E2503732800D26607 /* Project.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project.swift; sourceTree = "<group>"; };
-		C40FE4202503736C00D26607 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,11 +68,10 @@
 				C40FE40425036BCB00D26607 /* SceneDelegate.swift */,
 				C40FE40625036BCB00D26607 /* ContentView.swift */,
 				C40FE41625036CC700D26607 /* TestView.swift */,
-				C40FE4202503736C00D26607 /* UserData.swift */,
 				C40FE41C250372AD00D26607 /* Data.swift */,
 				C40FE41E2503732800D26607 /* Project.swift */,
 				C40FE40825036BCC00D26607 /* Assets.xcassets */,
-				C40FE41A2503729700D26607 /* Test.json */,
+				C48E9F962507187A00C65118 /* Resource */,
 				C40FE40D25036BCC00D26607 /* LaunchScreen.storyboard */,
 				C40FE41025036BCC00D26607 /* Info.plist */,
 				C40FE40A25036BCC00D26607 /* Preview Content */,
@@ -88,6 +85,14 @@
 				C40FE40B25036BCC00D26607 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C48E9F962507187A00C65118 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				C40FE41A2503729700D26607 /* Test.json */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -148,8 +153,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C48E9F9725071FEC00C65118 /* Test.json in Resources */,
 				C40FE40F25036BCC00D26607 /* LaunchScreen.storyboard in Resources */,
-				C40FE41B2503729800D26607 /* Test.json in Resources */,
 				C40FE40C25036BCC00D26607 /* Preview Assets.xcassets in Resources */,
 				C40FE40925036BCC00D26607 /* Assets.xcassets in Resources */,
 			);
@@ -162,7 +167,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C40FE4212503736C00D26607 /* UserData.swift in Sources */,
 				C40FE41725036CC700D26607 /* TestView.swift in Sources */,
 				C40FE41D250372AD00D26607 /* Data.swift in Sources */,
 				C40FE40325036BCB00D26607 /* AppDelegate.swift in Sources */,

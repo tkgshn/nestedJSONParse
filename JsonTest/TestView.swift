@@ -18,12 +18,14 @@ import SwiftUI
 struct TestView: View {
     
     //    var Test: Projec
-    var project: Project
+    var ticker: Ticker
 //    ここら辺は問題なく表示できる
     var body: some View {
-        VStack {
-            Text(project.name)
-            Text(project.category.name)
+        List {
+            
+            Text(ticker.autopayoutFrom)
+            Text(ticker.lastPaymentAmount)
+
         }
     }
 }
@@ -35,7 +37,7 @@ struct TestView_Previews: PreviewProvider {
         //        let project = try! decoder.decode([Project].self, from: jsonData)
         //        return ContentView(project: project)
         
-        ContentView(project: testData[0])
+        ContentView(ticker: testData[0])
         
     }
 }

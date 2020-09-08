@@ -11,7 +11,7 @@ import SwiftUI
 struct ContentView: View {
     
     @State private var isShown: Bool = false
-    var project: Project
+    var ticker: Ticker
     
     var body: some View {
 //        とりあえず問題のviewに遷移させてみる
@@ -26,7 +26,7 @@ struct ContentView: View {
         }
             .sheet(isPresented: self.$isShown) {
                 //モーダル遷移した後に表示するビュー
-                TestView(project: testData[0])
+                TestView(ticker: testData[0])
         }
     }
 }
@@ -34,6 +34,6 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView(project: testData[0])
+        ContentView(ticker: testData[0])
     }
 }
