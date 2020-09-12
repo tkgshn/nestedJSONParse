@@ -21,7 +21,7 @@
 
 /* Begin PBXFileReference section */
 		C4080EBB250CA3E5004001C0 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
-		C40FE3FF25036BCB00D26607 /* JsonTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JsonTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C40FE3FF25036BCB00D26607 /* nestedJSONParse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = nestedJSONParse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C40FE40225036BCB00D26607 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C40FE40425036BCB00D26607 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		C40FE40625036BCB00D26607 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,7 +56,7 @@
 		C40FE40025036BCB00D26607 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C40FE3FF25036BCB00D26607 /* JsonTest.app */,
+				C40FE3FF25036BCB00D26607 /* nestedJSONParse.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -106,9 +106,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C40FE3FE25036BCB00D26607 /* JsonTest */ = {
+		C40FE3FE25036BCB00D26607 /* nestedJSONParse */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C40FE41325036BCC00D26607 /* Build configuration list for PBXNativeTarget "JsonTest" */;
+			buildConfigurationList = C40FE41325036BCC00D26607 /* Build configuration list for PBXNativeTarget "nestedJSONParse" */;
 			buildPhases = (
 				C40FE3FB25036BCB00D26607 /* Sources */,
 				C40FE3FC25036BCB00D26607 /* Frameworks */,
@@ -118,9 +118,9 @@
 			);
 			dependencies = (
 			);
-			name = JsonTest;
+			name = nestedJSONParse;
 			productName = JsonTest;
-			productReference = C40FE3FF25036BCB00D26607 /* JsonTest.app */;
+			productReference = C40FE3FF25036BCB00D26607 /* nestedJSONParse.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -138,7 +138,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C40FE3FA25036BCB00D26607 /* Build configuration list for PBXProject "JsonTest" */;
+			buildConfigurationList = C40FE3FA25036BCB00D26607 /* Build configuration list for PBXProject "nestedJSONParse" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -151,7 +151,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C40FE3FE25036BCB00D26607 /* JsonTest */,
+				C40FE3FE25036BCB00D26607 /* nestedJSONParse */,
 			);
 		};
 /* End PBXProject section */
@@ -325,8 +325,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ShunsukeTakagi.com.JsonTest;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = ShunsukeTakagi.com.nestedJSONParse;
+				PRODUCT_NAME = nestedJSONParse;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -345,8 +345,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ShunsukeTakagi.com.JsonTest;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = ShunsukeTakagi.com.nestedJSONParse;
+				PRODUCT_NAME = nestedJSONParse;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -355,7 +355,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C40FE3FA25036BCB00D26607 /* Build configuration list for PBXProject "JsonTest" */ = {
+		C40FE3FA25036BCB00D26607 /* Build configuration list for PBXProject "nestedJSONParse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C40FE41125036BCC00D26607 /* Debug */,
@@ -364,7 +364,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C40FE41325036BCC00D26607 /* Build configuration list for PBXNativeTarget "JsonTest" */ = {
+		C40FE41325036BCC00D26607 /* Build configuration list for PBXNativeTarget "nestedJSONParse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C40FE41425036BCC00D26607 /* Debug */,
