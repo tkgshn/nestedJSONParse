@@ -1,1 +1,220 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T06:05:03.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4261.0 Safari/537.36" version="13.6.10" etag="wY18CCO4TgEOXjggZi4G" type="github"><diagram id="81Nl-C9tGfA6D85THTfi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-12T06:28:45.999Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4261.0 Safari/537.36" etag="ujrgE6_K3RGSVlsmEF1t" version="13.6.10" type="github">
+  <diagram id="81Nl-C9tGfA6D85THTfi" name="Page-1">
+    <mxGraphModel dx="2037" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="145.25" y="130" width="544" height="544" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="198" y="311" width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-13">
+          <mxGeometry width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-12" value="" style="group" vertex="1" connectable="0" parent="_HanU_A2e2ALgXlpsMAe-13">
+          <mxGeometry x="7.25" y="16" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-12">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-11" value="" style="group" vertex="1" connectable="0" parent="_HanU_A2e2ALgXlpsMAe-12">
+          <mxGeometry x="5.5" y="70" width="109" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-11">
+          <mxGeometry width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-11">
+          <mxGeometry x="39" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-11">
+          <mxGeometry x="79" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-42" value="JA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-11">
+          <mxGeometry x="-5" y="-1" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-43" value="EN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-11">
+          <mxGeometry x="-5" y="18" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-46" value="Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-12">
+          <mxGeometry x="3.5" y="9" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-47" value="Description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-12">
+          <mxGeometry x="22.75" y="32" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-45" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;position2=0.74;" vertex="1" parent="1">
+          <mxGeometry x="178" y="430" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-50" value="&lt;b&gt;Example: Phrase&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="189" y="464" width="109" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-53" value="「どこの国から来ましたか？」" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="178" y="484" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-54" value="「Where are you from?」" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="139" y="504" width="235" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-67" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="498" y="310" width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-67">
+          <mxGeometry width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-69" value="" style="group" vertex="1" connectable="0" parent="_HanU_A2e2ALgXlpsMAe-67">
+          <mxGeometry x="7.25" y="16" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-69">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-71" value="" style="group" vertex="1" connectable="0" parent="_HanU_A2e2ALgXlpsMAe-69">
+          <mxGeometry x="5.5" y="70" width="109" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-71">
+          <mxGeometry width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-71">
+          <mxGeometry x="39" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-71">
+          <mxGeometry x="79" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-75" value="JA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-71">
+          <mxGeometry x="-5" y="-1" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-76" value="EN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-71">
+          <mxGeometry x="-5" y="18" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-77" value="Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-69">
+          <mxGeometry x="3.5" y="9" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-78" value="Description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-69">
+          <mxGeometry x="22.75" y="32" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-81" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="348" y="310" width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-81">
+          <mxGeometry width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-83" value="" style="group" vertex="1" connectable="0" parent="_HanU_A2e2ALgXlpsMAe-81">
+          <mxGeometry x="7.25" y="16" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-84" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-83">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-85" value="" style="group" vertex="1" connectable="0" parent="_HanU_A2e2ALgXlpsMAe-83">
+          <mxGeometry x="5.5" y="70" width="109" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-85">
+          <mxGeometry width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-85">
+          <mxGeometry x="39" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-85">
+          <mxGeometry x="79" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-89" value="JA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-85">
+          <mxGeometry x="-5" y="-1" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-90" value="EN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-85">
+          <mxGeometry x="-5" y="18" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-91" value="Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-83">
+          <mxGeometry x="3.5" y="9" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-92" value="Description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-83">
+          <mxGeometry x="22.75" y="32" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-80" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="317.65" y="304.09000000000003" width="277.72" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-48" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=90;position2=1;base=24;size=29;position=0.55;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-80">
+          <mxGeometry x="98.86000000000001" y="-98.86000000000004" width="80" height="277.72" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-49" value="&lt;b&gt;Example: AudioContent&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-80">
+          <mxGeometry x="40.35" y="5.91" width="159.65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-51" value="「入国審査で使う英語」" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-80">
+          <mxGeometry x="35.35000000000002" y="27.789999999999964" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-52" value="「入国審査聞かれるような英会話です」" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-80">
+          <mxGeometry x="35.35000000000002" y="47.789999999999964" width="235" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-94" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="143.25" y="700" width="544" height="544" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-95" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="202.25" y="902" width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-95">
+          <mxGeometry width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-97" value="" style="group" vertex="1" connectable="0" parent="_HanU_A2e2ALgXlpsMAe-95">
+          <mxGeometry x="7.25" y="16" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-98" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-97">
+          <mxGeometry width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-105" value="Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-97">
+          <mxGeometry x="9.5" y="9" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-106" value="City" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-97">
+          <mxGeometry x="4.75" y="32" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-140" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="902" width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-141" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-140">
+          <mxGeometry width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-142" value="" style="group" vertex="1" connectable="0" parent="_HanU_A2e2ALgXlpsMAe-140">
+          <mxGeometry x="7.25" y="16" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-143" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-142">
+          <mxGeometry width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-144" value="Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-142">
+          <mxGeometry x="3.5" y="9" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-145" value="Description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-142">
+          <mxGeometry x="22.75" y="32" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-146" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="902" width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-147" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-146">
+          <mxGeometry width="134.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-148" value="" style="group" vertex="1" connectable="0" parent="_HanU_A2e2ALgXlpsMAe-146">
+          <mxGeometry x="7.25" y="16" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-149" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-148">
+          <mxGeometry width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-150" value="Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-148">
+          <mxGeometry x="3.5" y="9" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-151" value="Description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-148">
+          <mxGeometry x="22.75" y="32" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-135" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="321.9" y="895.09" width="277.72" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-136" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=90;position2=1;base=24;size=29;position=0.55;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-135">
+          <mxGeometry x="98.86000000000001" y="-98.86000000000004" width="80" height="277.72" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-137" value="&lt;b&gt;Example: Landmark (Apple tutorial)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-135">
+          <mxGeometry x="26.7" y="6.79" width="243.3" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-138" value="「Silver Salmon Creek」" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-135">
+          <mxGeometry x="35.35000000000002" y="27.789999999999964" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_HanU_A2e2ALgXlpsMAe-139" value="「Port Alsworth」" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HanU_A2e2ALgXlpsMAe-135">
+          <mxGeometry x="34.35" y="47.79" width="114.65" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
