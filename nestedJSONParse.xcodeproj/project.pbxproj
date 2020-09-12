@@ -48,7 +48,7 @@
 		C40FE3F625036BCB00D26607 = {
 			isa = PBXGroup;
 			children = (
-				C40FE40125036BCB00D26607 /* JsonTest */,
+				C40FE40125036BCB00D26607 /* nestedJSONParse */,
 				C40FE40025036BCB00D26607 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C40FE40125036BCB00D26607 /* JsonTest */ = {
+		C40FE40125036BCB00D26607 /* nestedJSONParse */ = {
 			isa = PBXGroup;
 			children = (
 				C40FE40225036BCB00D26607 /* AppDelegate.swift */,
@@ -74,7 +74,7 @@
 				C40FE41025036BCC00D26607 /* Info.plist */,
 				C40FE40A25036BCC00D26607 /* Preview Content */,
 			);
-			path = JsonTest;
+			path = nestedJSONParse;
 			sourceTree = "<group>";
 		};
 		C40FE40A25036BCC00D26607 /* Preview Content */ = {
