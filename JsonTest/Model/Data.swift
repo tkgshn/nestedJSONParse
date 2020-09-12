@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-let tickerData: [Ticker] = load("tickerData.json")
+let audioContentData: [AudioContent] = load("audioContentData.json")
 
 func load<T: Decodable>(_ filename: String) -> T {
     let data: Data

@@ -25,7 +25,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 //        ここで落ちる
         if let windowScene = scene as? UIWindowScene {
             let window = UIWindow(windowScene: windowScene)
-            window.rootViewController = UIHostingController(rootView: ContentView(ticker: tickerData[0]))
+            window.rootViewController = UIHostingController(rootView: ContentView(audioContent: audioContentData[0]))
             self.window = window
             window.makeKeyAndVisible()
         }

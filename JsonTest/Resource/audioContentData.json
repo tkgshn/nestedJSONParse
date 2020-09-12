@@ -1,0 +1,18 @@
+[{
+    "id": 0,
+    "name": "人称",
+    "description": "留学に行く際に空港で聞かれる内容をまとめた内容です",
+    "phrases":{
+        "1": {"japanese": "Aゲートはどこですか？", "english": "Where is the Gate A ?"},
+        "2": {"japanese": "私は日本へ行きます", "english": "I'll go to Japan"}
+    }
+},
+{
+    "id": 2,
+    "name": "国と言語",
+    "description": "国と言語を説明する際に使う英語をまとめました",
+    "phrases": {
+        "1": {"japanese": "私は日本出身です。", "english": "I'm from Japan"},
+        "2": {"japanese": "日本語は世界の言葉に比べて難しいです", "english": "Japanese is difficult than other languages"}
+    }
+}]
